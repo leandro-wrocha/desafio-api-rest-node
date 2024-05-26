@@ -2,7 +2,6 @@ import { FastifyInstance } from 'fastify'
 import { z } from 'zod'
 
 import db from '../database'
-import { Diet } from '../database/interfaces'
 
 interface CustomError extends Error {}
 
