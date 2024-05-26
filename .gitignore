@@ -1,0 +1,6 @@
+node_modules
+tmp
+.env
+.env.test
+dist
+db/migrations/**.js
